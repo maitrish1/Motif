@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Motif/static/css/main.f1d3bde3.css",
+    "main.js": "/Motif/static/js/main.63a651ad.js",
+    "static/js/787.bba35194.chunk.js": "/Motif/static/js/787.bba35194.chunk.js",
+    "index.html": "/Motif/index.html",
+    "main.f1d3bde3.css.map": "/Motif/static/css/main.f1d3bde3.css.map",
+    "main.63a651ad.js.map": "/Motif/static/js/main.63a651ad.js.map",
+    "787.bba35194.chunk.js.map": "/Motif/static/js/787.bba35194.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1d3bde3.css",
+    "static/js/main.63a651ad.js"
+  ]
+}
